@@ -7,7 +7,7 @@ export default class Post extends React.Component {
 
   render() {
     const header = src => {
-      return <img alt="Card" src={src} />;
+      return <img alt="Card" src={src} style={{ height: "180px" }}/>;
     };
     const footer = post => (
       <span>
