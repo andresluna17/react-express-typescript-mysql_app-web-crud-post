@@ -1,7 +1,7 @@
 ## Descripcion
 
 Este backend(servidor) fue desarrolla con express.js, typescript, MySQL, morga(middlewares).
-consiste en una api rest de una base de datos construida en MySQL donde se encuentra una tabla post, esta  api debe se diseño para ser consumida por el Frontend(cliente).
+consiste en una api rest de una base de datos construida en MySQL donde se encuentra una tabla post, esta  api se diseño para ser consumida por el Frontend(cliente).
 
 ## 'npm install'
 
