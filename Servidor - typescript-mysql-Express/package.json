@@ -8,7 +8,6 @@
     "dev": "nodemon  src index.ts --exec ts-node"
   },
   "keywords": [],
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
