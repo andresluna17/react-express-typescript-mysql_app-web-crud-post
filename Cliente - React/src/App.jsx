@@ -100,7 +100,7 @@ export default class App extends React.Component {
 
             <h1 style={{ textAlign: "center" }}>posts existentes</h1>
             <div className="content-section implementation">
-              <DataTable value={this.state.eventos} paginator={true} rows={10}>
+              <DataTable value={this.state.eventos} paginator={true} rows={2}>
                 <Column field="title" header="titulo" />
                 <Column field="description" header="descripcion" />
                 <Column
