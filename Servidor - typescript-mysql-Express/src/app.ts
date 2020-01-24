@@ -1,7 +1,5 @@
 import express, { Application } from "express";
 import morgan from "morgan";
-import bodyParser from "body-parser";
-
 // Routes
 import IndexRoutes from "./routes/index.routes";
 import PostRoutes from "./routes/post.routes";
